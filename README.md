@@ -1,3 +1,3 @@
 # Telco Customer Churn Prediction
 
-APP URL:
+APP URL:https://apf6ppbm22fstsebbi8q9t.streamlit.app/
